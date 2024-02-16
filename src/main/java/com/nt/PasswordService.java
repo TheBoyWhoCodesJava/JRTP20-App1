@@ -28,4 +28,6 @@ public class PasswordService {
 		System.out.println(decode);
 	}
 
+	public void modifiedMethod(){}
+
 }
